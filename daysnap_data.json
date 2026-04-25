@@ -1,0 +1,17 @@
+{
+  "streak": 0,
+  "tasks": [
+    {
+      "text": "jkxfg \\",
+      "done": true
+    }
+  ],
+  "routines": {
+    "\ud83c\udf05  Wake up early": false,
+    "\ud83c\udfc3  Exercise": false,
+    "\ud83d\udcda  Study": false,
+    "\ud83d\udca7  Drink water": false
+  },
+  "last_date": "2026-04-25",
+  "dark_mode": true
+}
