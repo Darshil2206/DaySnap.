@@ -117,29 +117,6 @@ DaySnap/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/daysnap.git
-cd daysnap
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the app
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 💾 Data Handling
 
 * Uses local JSON file (`daysnap_data.json`)
